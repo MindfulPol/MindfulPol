@@ -1,5 +1,3 @@
-# Hi there, I'm Mindfulpol 👋
-
 ![Profile views](https://komarev.com/ghpvc/?username=Mindfulpol&color=blueviolet&style=flat&label=Profile+Views)
 
 
@@ -34,9 +32,7 @@
 </div>
 <h2 align="center">📫 How to reach me</h2>
 <p align="center">
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30" /></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" /></a>
-  <a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="30" /></a>
+  <a href="https://www.linkedin.com/in/pol-software-craftsmanship" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" /></a>
 </p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mindfulpol/Mindfulpol/master/assets/divider.gif" alt="Animated Divider">
